@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Unesco Remarcable Site</string>
+    <string name="title_app">Unesco</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_site_details">SiteDetailsActivity</string>
+</resources>
